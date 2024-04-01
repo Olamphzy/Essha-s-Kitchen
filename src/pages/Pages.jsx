@@ -1,4 +1,4 @@
-import React from 'react';
+gpimport React from 'react';
 import Home from './Home';
 import Recipe from "./Recipe";
 import Cuisine from './Cuisine';
